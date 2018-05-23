@@ -9,4 +9,4 @@ eureka:
   instance:
     prefer-ip-address: true
 #    指定服务IP地址
-    ip-address: 120.78.81.233
+    ip-address: 192.168.1.247

@@ -24,6 +24,7 @@ public class FilterUrlUtil {
         urllist.add("/user-service/user/updateUserInfo");
         urllist.add("/user-service/user/saveProfilePicture");
         urllist.add("/user-service/user/queryFriendMomentStatus");
+        urllist.add("/user-service/user/updatePassword");
         //picture-service
         urllist.add("/zuul/picture-service/picture/upload");
         urllist.add("/picture-service/picture/upload");
